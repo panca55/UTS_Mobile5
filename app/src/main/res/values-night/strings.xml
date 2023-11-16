@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+    <string name="book">Book</string>
+    <string name="home">Home</string>
+    <string name="ayo_jelajahi_dunia_dengan_membaca">Ayo jelajahi dunia dengan membaca!</string>
+    <string name="mulai">MULAI</string>
+    <string name="heroimg">HeroIMG</string>
+</resources>
