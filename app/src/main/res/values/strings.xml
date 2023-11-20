@@ -9,4 +9,12 @@
     <string name="ayo_jelajahi_dunia_dengan_membaca">Ayo jelajahi dunia dengan membaca!</string>
     <string name="mulai">MULAI</string>
     <string name="heroimg">HeroIMG</string>
+    <string name="Home">Home</string>
+    <string name="bookstore">BookStore</string>
+    <string name="Profile">Profile</string>
+    <string name="btnkeluar">Keluar</string>
+    <string name="btnbantuan">Bantuan</string>
+    <string name="btnpengaturan">Pengaturan</string>
+    <string name="textview">TextView</string>
+    <string name="textView">TextView</string>
 </resources>
